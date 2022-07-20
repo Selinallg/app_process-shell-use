@@ -16,6 +16,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:ems="10"
+        android:text="ls"
         android:hint="在此处输入shell命令"
         android:inputType="none"
         app:layout_constraintEnd_toStartOf="@+id/btn_runshell"
